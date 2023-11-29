@@ -1,0 +1,1 @@
+export const TaskTypes  = ['Note', 'Call', 'Action', 'Task']

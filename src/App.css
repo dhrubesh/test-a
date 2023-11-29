@@ -1,0 +1,26 @@
+.task-container{
+  display: flex;
+  justify-content: space-around;
+}
+.App{
+   display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 85%;
+    max-width: 500px;
+    margin-top: 32px;
+}
+
+.activity-block{
+  margin: 16px;
+  padding: 16px;
+  border: 1px solid black;
+}
+
+.pin{
+  border: 1px solid red;
+}
+
+.input-box{
+  padding: 24px;
+}
